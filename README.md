@@ -1,20 +1,18 @@
-<!-- Animated welcoming header -->
+<!-- Animated welcoming header in Sky Blue -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Hi%20there!%20I'm%20Thu%20Trang%20👋&fontSize=40&fontAlignY=38&desc=A%20passionate%20mobile%20developer%20&%20IT%20student%20at%20HUSC&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=220&section=header&text=Hi%20there!%20I'm%20Thu%20Trang%20👋&fontSize=40&fontAlignY=38&desc=A%20passionate%20mobile%20developer%20&%20IT%20student%20at%20HUSC&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
 
-### 🌸 Welcome to my profile space!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenthutrang19&style=flat-square&color=ff69b4" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/Status-Coding%20with%20passion-blueviolet?style=flat-square&logo=flutter" alt="Status" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenthutrang19&style=for-the-badge&color=00b4db" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20Sky%20Limits-0083b0?style=for-the-badge&logo=flutter&logoColor=white" alt="Status" />
+</div>
 
 ---
 
-### ✨ About Me:
+### ☁️ About Me:
 * 🎓 **Education:** Information Technology student at the University of Science, Hue University (HUSC).
 * 💻 **Interests:** Mobile application development using **Flutter & Dart**, exploring open-source solutions, and building smooth, user-friendly interfaces.
 * 📚 **Hobbies:** Reading mystery novels and historical fiction at night, and enjoying coffee in cozy, quiet places.
@@ -43,12 +41,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenthutrang19&show_icons=true&theme=radical&hide_border=true&bg_color=1f2430" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthutrang19&layout=compact&theme=radical&hide_border=true&bg_color=1f2430" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenthutrang19&show_icons=true&theme=onedark&hide_border=true&bg_color=0083b0&title_color=ffffff&icon_color=ffffff&text_color=e0f7fa" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthutrang19&layout=compact&theme=onedark&hide_border=true&bg_color=0083b0&title_color=ffffff&text_color=e0f7fa" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthutrang19&theme=radical&hide_border=true&background=1f2430" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthutrang19&theme=onedark&hide_border=true&background=0083b0&sideLabels=true&stroke=ffffff&ring=ffffff" width="100%" />
 </p>
 
 ---
@@ -70,6 +68,7 @@
   </a>
 </p>
 
+<!-- Footer wave in Sky Blue -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=100&section=footer" width="100%" />
 </div>
