@@ -20,7 +20,6 @@
 
 ## About Me
 
-<img align="right" chưa kiếm được ảnh phù hợp nơi" />
 
 -  **Name:** Thu Trang
 -  **Studying at:** University of Sciences, Hue University (HUSC)
@@ -32,7 +31,7 @@
 
 ---
 
-## 🛠️ Skills & Tools I'm Learning
+## Skills & Tools I'm Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css,git,github,vscode" />
@@ -40,10 +39,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HIaQiukPNNgYAgmdM2/giphy.gif" width="180" alt="cute chibi traveler" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/heart.gif" width="28" />
