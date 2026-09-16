@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:00C6FB,100:6C63FF&height=220&section=header&text=Hi%20there%2C%20I'm%20Thu%20Trang%20%F0%9F%8E%87&fontSize=38&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/4IKybi5zUz6nRGj19u/giphy.gif" width="150" alt="cute chibi spin" />
@@ -22,15 +18,15 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/3QtrJhUsZAze23TpRA/giphy.gif" width="220" alt="cute chibi illustration" />
+<img align="right" chưa kiếm được ảnh phù hợp nơi" />
 
-- 🎀 **Name:** Thu Trang
-- 🎓 **Studying at:** University of Sciences, Hue University (HUSC)
-- 🌱 **Currently:** Learning to code step by step and exploring new technologies
-- 💙 **Interests:** Cats & dogs, and anything cute
-- 🎯 **Goal:** Building up my programming skills a little more every day
+-  **Name:** Thu Trang
+-  **Studying at:** University of Sciences, Hue University (HUSC)
+-  **Currently:** Learning to code step by step and exploring new technologies
+-  **Interests:** Cats & dogs, and anything cute
+-  **Goal:** Building up my programming skills a little more every day
 
 <br clear="right"/>
 
