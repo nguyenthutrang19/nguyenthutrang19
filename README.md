@@ -1,15 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:00C6FB,100:6C63FF&height=220&section=header&text=Hi%20there%2C%20I'm%20Thu%20Trang%20%F0%9F%8E%87&fontSize=38&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
-
-<!-- Fireworks strip -->
-<img src="https://media.giphy.com/media/l0MYNLmLL7yfDqbXK/giphy.gif" width="100%" height="120" style="object-fit:cover;" alt="fireworks" />
-
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FB&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Thu+Trang!;IT+Student+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/4IKybi5zUz6nRGj19u/giphy.gif" width="150" alt="cute chibi spin" />
