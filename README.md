@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4IKybi5zUz6nRGj19u/giphy.gif" width="150" alt="cute chibi spin" />
-</p>
+
 
 <p align="center">
   <a href="mailto:trangtrang191104@gmail.com">
