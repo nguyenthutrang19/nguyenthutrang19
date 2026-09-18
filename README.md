@@ -40,10 +40,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/heart.gif" width="28" />
-  <em>Thanks for stopping by my GitHub profile! Have a wonderful day 🌿</em>
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/heart.gif" width="28" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C6FB,100:4FACFE&height=120&section=footer" width="100%" />
-</div>
